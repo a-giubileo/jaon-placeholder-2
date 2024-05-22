@@ -7,7 +7,7 @@ export const PLASMIC = initPlasmicLoader({
       token: "XCuyLrtC2mZMUIvBvmiOPLVbFdDb4MJlm1bTYmaoPFAypgvDm5zbw4eKat6XN4dHR9OAD9Xp3mG2ptkp0acQ",
     },
   ],
-  host: "https://builder.yurekai.com",
+  host: "http://localhost:3003",
   // By default Plasmic will use the last published version of your project.
   // For development, you can set preview to true, which will use the unpublished
   // project, allowing you to see your designs without publishing.  Please
